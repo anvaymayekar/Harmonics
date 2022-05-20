@@ -1,6 +1,6 @@
 black = '#262625'
 
-PATH = 'Anvay Algorithms//SHM'
+PATH = '{YOUR_PATH}'
 author = '@anvaymayekar'
 preset = 'oblique'
 
